@@ -1,2 +1,2 @@
-# firstTrainingRepository
-My first rep
+## firstTrainingRepository
+-My first rep
